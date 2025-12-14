@@ -6,20 +6,21 @@
 
 Aşağıda API'nin çalıştığına dair Postman test sonuçları yer almaktadır:
 
-### 1. Mekanları Listeleme (ListNearbyVenues)
-![List Venues](test/ListNearbyVenues.png)
 
-### 2. Mekan Getirme (GetVenue)
-![Get Venue](test/GetVenue.png)
-
-### 3. Yorum Getirme (GetComment)
-![Get Comment](test/GetComment.png)
-
-### 4. Mekan Ekleme (AddVenue)
+### 1. Mekan Ekleme (AddVenue)
 ![Add Venue](test/AddVenue.png)
 
-### 5. Yorum Ekleme (AddComment)
+### 2. Yorum Ekleme (AddComment)
 ![Add Comment](test/AddComment.png)
+
+### 3. Mekanları Listeleme (ListNearbyVenues)
+![List Venues](test/ListNearbyVenues.png)
+
+### 4. Mekan Getirme (GetVenue)
+![Get Venue](test/GetVenue.png)
+
+### 5. Yorum Getirme (GetComment)
+![Get Comment](test/GetComment.png)
 
 ### 6. Mekan Güncelleme (UpdateVenue)
 ![Update Venue](test/UpdateVenue.png)
