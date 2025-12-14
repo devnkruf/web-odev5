@@ -24,7 +24,7 @@ const listVenues = function (req, res) {
     var point = { type: "Point", coordinates: [lat, long] };
     var geoOptions = {
         distanceField: "distance", spherical: true,
-        maxDistance: converter.kilometer2Radian(10000)
+        maxDistance: converter.radian2Kilometer(100)
     };
     try {
         Venue.aggregate([
